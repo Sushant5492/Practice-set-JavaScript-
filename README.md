@@ -3,8 +3,8 @@ Let var char ex.
 console.log("JavaScript tutorial 3: var, let and const")
  var a = 45;
  var a = "p"
-let b = "Harry";
-const author = "Harry"
+let b = "Sushant";
+const author = "Sushant"
 author = 5 // Throws an error because constant cannot be changed
 b = 4
 const Sushant = 0;
