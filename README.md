@@ -32,3 +32,4 @@ else{
   alert("You can now drive as you are above 18");
 }
 console.log("Done")
+console.log("You can", (a<18? "not drive" :"drive"))
